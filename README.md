@@ -27,9 +27,9 @@ O jogo consiste em adivinhar um número secreto gerado aleatoriamente pelo siste
 
 ## Tecnologias utilizadas
 
-- HTML
-- CSS
-- JavaScript
+- HTML;
+- CSS;
+- JavaScript.
 
 ## Autor
 
